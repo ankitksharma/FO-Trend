@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Ankit subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Engineering" title="Engineering">
+            <outline type="rss" text="RichRelevance Engineering Blog" title="RichRelevance Engineering Blog" xmlUrl="http://engineering.richrelevance.com/feed/" htmlUrl="http://engineering.richrelevance.com"/>
+        </outline>
+        <outline text="Data Science" title="Data Science">
+            <outline type="rss" text="design:analysis::datascope:analytics" title="design:analysis::datascope:analytics" xmlUrl="http://datascopeanalytics.com/rss/" htmlUrl="http://datascopeanalytics.com/rss/"/>
+            <outline type="rss" text="Andrew Tulloch" title="Andrew Tulloch" xmlUrl="http://tullo.ch/feed.xml" htmlUrl="http://tullo.ch"/>
+            <outline type="rss" text="Zero Intelligence Agents" title="Zero Intelligence Agents" xmlUrl="http://drewconway.com/zia?format=rss" htmlUrl="http://drewconway.com/zia/"/>
+            <outline type="rss" text="Yhat | Blog" title="Yhat | Blog" xmlUrl="http://blog.yhathq.com/rss.xml" htmlUrl="http://blog.yhathq.com/"/>
+            <outline type="rss" text="John Myles White" title="John Myles White" xmlUrl="http://www.johnmyleswhite.com/feed/" htmlUrl="http://www.johnmyleswhite.com"/>
+            <outline type="rss" text="Claiming ownership of the freed self.." title="Claiming ownership of the freed self.." xmlUrl="http://conflatedthoughts.blogspot.com/feeds/posts/default" htmlUrl="http://conflatedthoughts.blogspot.com/"/>
+            <outline type="rss" text="VentureBeat » Big Data News" title="VentureBeat » Big Data News" xmlUrl="http://venturebeat.com/category/big-data/feed/" htmlUrl="http://venturebeat.com"/>
+            <outline type="rss" text="Mining the Social Web" title="Mining the Social Web" xmlUrl="http://miningthesocialweb.com/feed/" htmlUrl="http://miningthesocialweb.com"/>
+            <outline type="rss" text="Blog - Louis Dorard" title="Blog - Louis Dorard" xmlUrl="http://www.louisdorard.com/blog?format=rss" htmlUrl="http://www.louisdorard.com/blog/"/>
+            <outline type="rss" text="Marginally Interesting by Mikio L. ..." title="Marginally Interesting by Mikio L. ..." xmlUrl="http://feeds.feedburner.com/MarginallyInteresting" htmlUrl="http://blog.mikiobraun.de/"/>
+            <outline type="rss" text="Data Science London" title="Data Science London" xmlUrl="http://datasciencelondon.org/feed/" htmlUrl="http://datasciencelondon.org"/>
+            <outline type="rss" text="Daniel Lemire's blog" title="Daniel Lemire's blog" xmlUrl="http://feeds.feedburner.com/daniel-lemire/atom" htmlUrl="http://lemire.me/blog"/>
+            <outline type="rss" text="Erik Bernhardsson" title="Erik Bernhardsson" xmlUrl="http://erikbern.com/?feed=rss2" htmlUrl="http://erikbern.com"/>
+            <outline type="rss" text="Statistical Modeling, Causal Inference, and Social Science" title="Statistical Modeling, Causal Inference, and Social Science" xmlUrl="http://www.stat.columbia.edu/~cook/movabletype/mlm/atom.xml" htmlUrl="http://andrewgelman.com"/>
+            <outline type="rss" text="LEARNINGlover.com" title="LEARNINGlover.com" xmlUrl="http://learninglover.com/blog/?feed=rss2" htmlUrl="http://learninglover.com/blog"/>
+            <outline type="rss" text="Statistics Blogs @ StatsBlogs.com | All About Statistics |" title="Statistics Blogs @ StatsBlogs.com | All About Statistics |" xmlUrl="http://www.statsblogs.com/feed/" htmlUrl="http://www.statsblogs.com"/>
+            <outline type="rss" text="Machine Learning" title="Machine Learning" xmlUrl="http://charlesmartin14.wordpress.com/feed/" htmlUrl="https://charlesmartin14.wordpress.com"/>
+            <outline type="rss" text="Data Mining: Text Mining, Visualiza..." title="Data Mining: Text Mining, Visualiza..." xmlUrl="http://datamining.typepad.com/data_mining/atom.xml" htmlUrl="http://datamining.typepad.com/data_mining/"/>
+            <outline type="rss" text="Meta Analysis" title="Meta Analysis" xmlUrl="http://metabrown.com/blog/feed/" htmlUrl="http://metabrown.com/blog"/>
+            <outline type="rss" text="A Blog From a Human-engineer-being" title="A Blog From a Human-engineer-being" xmlUrl="http://www.erogol.com/feed/" htmlUrl="http://www.erogol.com"/>
+            <outline type="rss" text="Data Science is real" title="Data Science is real" xmlUrl="http://analytical-solution.com/feed/" htmlUrl="http://analytical-solution.com"/>
+            <outline type="rss" text="Machine Learning Mastery" title="Machine Learning Mastery" xmlUrl="http://feeds.feedburner.com/MachineLearningMastery" htmlUrl="http://machinelearningmastery.com"/>
+            <outline type="rss" text="Featured Blog Posts - AnalyticBridge" title="Featured Blog Posts - AnalyticBridge" xmlUrl="http://www.analyticbridge.com/profiles/blog/feed?promoted=1&amp;xn_auth=no"/>
+            <outline type="rss" text="FlowingData" title="FlowingData" xmlUrl="http://feeds.feedburner.com/FlowingData" htmlUrl="http://flowingdata.com"/>
+            <outline type="rss" text="What's The Big Data?" title="What's The Big Data?" xmlUrl="http://whatsthebigdata.com/feed/" htmlUrl="http://whatsthebigdata.com"/>
+            <outline type="rss" text="R-bloggers" title="R-bloggers" xmlUrl="http://feeds.feedburner.com/RBloggers" htmlUrl="http://www.r-bloggers.com"/>
+            <outline type="rss" text="chartsnthings" title="chartsnthings" xmlUrl="http://chartsnthings.tumblr.com/rss" htmlUrl="http://chartsnthings.tumblr.com/"/>
+            <outline type="rss" text="Statistical Modeling, Causal Inference, and Social Science « Statistical Modeling, Causal Inference, and Social Science" title="Statistical Modeling, Causal Inference, and Social Science « Statistical Modeling, Causal Inference, and Social Science" xmlUrl="http://andrewgelman.com/feed/" htmlUrl="http://andrewgelman.com"/>
+            <outline type="rss" text="FastML" title="FastML" xmlUrl="http://fastml.com/atom.xml" htmlUrl="http://fastml.com/"/>
+            <outline type="rss" text="The Endeavour | John D. Cook" title="The Endeavour | John D. Cook" xmlUrl="http://www.johndcook.com/blog/feed/" htmlUrl="http://www.johndcook.com/blog"/>
+            <outline type="rss" text="Data Science 101" title="Data Science 101" xmlUrl="http://datascience101.wordpress.com/feed/" htmlUrl="http://101.datascience.community"/>
+            <outline type="rss" text="Drunks&amp;Lampposts" title="Drunks&amp;Lampposts" xmlUrl="http://drunks-and-lampposts.com/feed/" htmlUrl="http://www.coppelia.io"/>
+            <outline type="rss" text="Normal Deviate" title="Normal Deviate" xmlUrl="http://normaldeviate.wordpress.com/feed/" htmlUrl="http://normaldeviate.wordpress.com"/>
+            <outline type="rss" text="theBioBucket*: R" title="theBioBucket*: R" xmlUrl="http://thebiobucket.blogspot.com/feeds/posts/default" htmlUrl="http://thebiobucket.blogspot.com/"/>
+            <outline type="rss" text="Wes McKinney" title="Wes McKinney" xmlUrl="http://wesmckinney.com/blog/?feed=rss2" htmlUrl="http://wesmckinney.com/blog"/>
+            <outline type="rss" text="Mickaël Le Gal" title="Mickaël Le Gal" xmlUrl="http://www.mickaellegal.com/blog?format=RSS" htmlUrl="http://www.mickaellegal.com/"/>
+            <outline type="rss" text="no free hunch" title="no free hunch" xmlUrl="http://blog.kaggle.com/feed/" htmlUrl="http://blog.kaggle.com"/>
+            <outline type="rss" text="Visual.ly Blog" title="Visual.ly Blog" xmlUrl="http://blog.visual.ly/feed" htmlUrl="http://blog.visual.ly"/>
+            <outline type="rss" text="KDnuggets: Data Mining, Analytics, ..." title="KDnuggets: Data Mining, Analytics, ..." xmlUrl="http://feeds.feedburner.com/kdnuggets-data-mining-analytics" htmlUrl="http://www.kdnuggets.com"/>
+            <outline type="rss" text="Big Data/BI Zone" title="Big Data/BI Zone" xmlUrl="http://www.dzone.com/mz/111665/rss" htmlUrl="http://www.dzone.com/mz/big-data"/>
+            <outline type="rss" text="The Aspirational Data Scientist" title="The Aspirational Data Scientist" xmlUrl="http://newdatascientist.blogspot.com/feeds/posts/default" htmlUrl="http://newdatascientist.blogspot.com/"/>
+            <outline type="rss" text="VizWiz" title="VizWiz" xmlUrl="http://vizwiz.blogspot.com/feeds/posts/default" htmlUrl="http://vizwiz.blogspot.com/"/>
+            <outline type="rss" text="Daniel Forsyth" title="Daniel Forsyth" xmlUrl="http://www.danielforsyth.me/rss/" htmlUrl="http://www.danielforsyth.me/"/>
+            <outline type="rss" text="Data Community DC - Building a world class community of big data practitioners and scientists." title="Data Community DC - Building a world class community of big data practitioners and scientists." xmlUrl="http://datacommunitydc.org/blog/feed/" htmlUrl="http://datacommunitydc.org/blog"/>
+            <outline type="rss" text="Complex Diagrams" title="Complex Diagrams" xmlUrl="http://complexdiagrams.com/feed/" htmlUrl="http://complexdiagrams.com"/>
+            <outline type="rss" text="Large Scale Machine Learning and Other Animals" title="Large Scale Machine Learning and Other Animals" xmlUrl="http://bickson.blogspot.com/feeds/posts/default" htmlUrl="http://bickson.blogspot.com/"/>
+            <outline type="rss" text="Data Miners Blog" title="Data Miners Blog" xmlUrl="http://blog.data-miners.com/feeds/posts/default" htmlUrl="http://blog.data-miners.com/"/>
+            <outline type="rss" text="Julia Evans" title="Julia Evans" xmlUrl="http://jvns.ca/atom.xml" htmlUrl="http://jvns.ca/"/>
+            <outline type="rss" text="Data Mining Research" title="Data Mining Research" xmlUrl="http://feeds.feedburner.com/dataminingblog" htmlUrl="http://www.dataminingblog.com"/>
+            <outline type="rss" text="Visual Business Intelligence" title="Visual Business Intelligence" xmlUrl="http://www.perceptualedge.com/blog/?feed=rss2" htmlUrl="http://www.perceptualedge.com/blog"/>
+            <outline type="rss" text="Walking Randomly" title="Walking Randomly" xmlUrl="http://feeds.feedburner.com/WalkingRandomly" htmlUrl="http://www.walkingrandomly.com"/>
+            <outline type="rss" text="TRinker's R Blog" title="TRinker's R Blog" xmlUrl="http://trinkerrstuff.wordpress.com/feed/" htmlUrl="https://trinkerrstuff.wordpress.com"/>
+            <outline type="rss" text="DataTau" title="DataTau" xmlUrl="http://www.datatau.com/rss" htmlUrl="http://www.datatau.com/"/>
+            <outline type="rss" text="Simply Statistics" title="Simply Statistics" xmlUrl="http://simplystatistics.org/feed/" htmlUrl="http://simplystatistics.org"/>
+            <outline type="rss" text="Machine Learning" title="Machine Learning" xmlUrl="http://www.reddit.com/r/MachineLearning/.rss" htmlUrl="http://www.reddit.com/r/MachineLearning/"/>
+            <outline type="rss" text="Another Word For It" title="Another Word For It" xmlUrl="http://tm.durusau.net/?feed=rss2" htmlUrl="http://tm.durusau.net"/>
+            <outline type="rss" text="Data Wrangling" title="Data Wrangling" xmlUrl="http://feeds.feedburner.com/DataWrangling" htmlUrl="http://www.datawrangling.com"/>
+            <outline type="rss" text="Datavisualization.ch" title="Datavisualization.ch" xmlUrl="http://feeds.feedburner.com/Datavisualization" htmlUrl="http://datavisualization.ch"/>
+            <outline type="rss" text="The Practical Quant" title="The Practical Quant" xmlUrl="http://practicalquant.blogspot.com/feeds/posts/default" htmlUrl="http://practicalquant.blogspot.com/"/>
+            <outline type="rss" text="Kevin Davenport" title="Kevin Davenport" xmlUrl="http://kldavenport.com/feed/" htmlUrl="http://kldavenport.com"/>
+            <outline type="rss" text="Mic Farris" title="Mic Farris" xmlUrl="http://www.micfarris.com/feed/" htmlUrl="http://www.micfarris.com"/>
+            <outline type="rss" text="School of Data" title="School of Data" xmlUrl="http://schoolofdata.org/feed/" htmlUrl="http://schoolofdata.org"/>
+            <outline type="rss" text="Everyone's Blog Posts - Data Science Central" title="Everyone's Blog Posts - Data Science Central" xmlUrl="http://www.datasciencecentral.com/profiles/blog/feed?xn_auth=no"/>
+        </outline>
+        <outline text="Tips + Tricks" title="Tips + Tricks">
+            <outline type="rss" text="Bash One-Liners" title="Bash One-Liners" xmlUrl="http://www.bashoneliners.com/oneliners/feeds/oneliner/" htmlUrl="http://bashoneliners.com/oneliners/feeds/oneliner/"/>
+            <outline type="rss" text="UNIX Command Line" title="UNIX Command Line" xmlUrl="http://unstableme.blogspot.com/feeds/posts/default" htmlUrl="http://www.unixcl.com/"/>
+        </outline>
+    </body>
+</opml>
